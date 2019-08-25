@@ -6,4 +6,4 @@ class Application
     time = Time.new.hour
     
     if time < 12
-      resp.
+      resp.write ""
